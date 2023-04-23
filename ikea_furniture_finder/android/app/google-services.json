@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603515695269",
+    "project_id": "furniture-382903",
+    "storage_bucket": "furniture-382903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603515695269:android:29b81ca495f86b4a4f9d4c",
+        "android_client_info": {
+          "package_name": "com.example.ikea_furniture_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603515695269-e8blgi0a29o2f8gmqth954g6mdjukp2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5mn1sGU7ePk-KkGuOONPpHymEI9YtFnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603515695269-e8blgi0a29o2f8gmqth954g6mdjukp2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
